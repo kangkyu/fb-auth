@@ -1,3 +1,4 @@
+require 'ostruct'
 require 'spec_helper'
 
 RSpec.describe 'Fb::Auth#access_token' do
