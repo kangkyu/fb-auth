@@ -24,7 +24,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'fb-support', '~> 1.0.0.alpha2'
 
-  spec.add_development_dependency 'bundler', '~> 2.6'
+  spec.add_development_dependency 'bundler', '~> 2.5'
   spec.add_development_dependency 'rake'
   spec.add_development_dependency 'rspec', '~> 3.0'
   spec.add_development_dependency 'yard', '~> 0.9'
